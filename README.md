@@ -1,4 +1,4 @@
-# OBS: Por nosso projeto ser um jogo, a maior parte dele está dentro do .zip (Castaway_Demo_Ver 0.2.0)
+# OBS: Por nosso projeto ser um jogo, a maior parte dele está dentro do .zip (Castaway_Demo_Ver 0.2.3)
 
 Projeto Castaway 
 
